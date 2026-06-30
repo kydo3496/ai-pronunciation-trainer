@@ -1,4 +1,12 @@
-sdk: docker, app_port: 7860
+---
+title: Pronunciation Trainer API
+emoji: 🗣️
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+pinned: false
+---
 
 
 # AI Pronunciation Trainer 
