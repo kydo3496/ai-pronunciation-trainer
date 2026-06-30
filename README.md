@@ -1,3 +1,5 @@
+sdk: docker, app_port: 7860
+
 
 # AI Pronunciation Trainer 
 This tool uses AI to evaluate your pronunciation so you can improve it and be understood more clearly. You can go straight test the tool at https://aipronunciationtr.com (please use the chrome browser for desktop and have some patience for it to "warm-up" :) ). 
